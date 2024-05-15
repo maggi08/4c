@@ -8,3 +8,4 @@
 **/statoscope-result
 **/dist
 *.hbs
+.env
